@@ -1,4 +1,4 @@
-# vue-lil-context-menu
+# vue-dynamic-context-menu
 
 A flexible context menu component for Vue. Pass it any menu template you like;
 it doesn't even have to be a menu. Always disappears when you expect it
@@ -59,3 +59,4 @@ under the `userData` property. For example:
 
 ## Related
 - [vue-context-menu](https://github.com/vmaimone/vue-context-menu)
+- [vue-lil-context-menu](https://github.com/timwis/vue-lil-context-menu)
