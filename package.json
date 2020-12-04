@@ -31,5 +31,8 @@
     "transform": [
       "vueify"
     ]
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
