@@ -17,7 +17,7 @@ to by using an `onblur` event.
 </context-menu>
 
 <script>
-const contextMenu = require('vue-lil-context-menu')
+const contextMenu = require('vue-dynamic-context-menu')
 
 module.exports = {
   components: {
@@ -59,4 +59,4 @@ under the `userData` property. For example:
 
 ## Related
 - [vue-context-menu](https://github.com/vmaimone/vue-context-menu)
-- [vue-lil-context-menu](https://github.com/timwis/vue-lil-context-menu)
+- [vue-dynamic-context-menu](https://github.com/timwis/vue-dynamic-context-menu)
