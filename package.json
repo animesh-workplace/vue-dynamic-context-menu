@@ -1,5 +1,5 @@
 {
-  "name": "vue-lil-context-menu",
+  "name": "vue-dynamic-context-menu",
   "version": "1.1.0",
   "description": "A flexible context menu component for Vue",
   "main": "index.vue",
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/timwis/vue-lil-context-menu.git"
+    "url": "git+https://github.com/animesh-workplace/vue-dynamic-context-menu.git"
   },
   "keywords": [
     "vue",
     "context",
     "menu"
   ],
-  "author": "timwis <tim@timwis.com>",
+  "author": "animesh-workplace",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/timwis/vue-lil-context-menu/issues"
+    "url": "https://github.com/animesh-workplace/vue-dynamic-context-menu/issues"
   },
-  "homepage": "https://github.com/timwis/vue-lil-context-menu#readme",
+  "homepage": "https://github.com/animesh-workplace/vue-dynamic-context-menu#readme",
   "dependencies": {
     "vue": "^2.3.3"
   },
